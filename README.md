@@ -1,13 +1,12 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
 ### <div align="center">Hi 👋, I'm faceyage. A passionate fullstack developer</div>  
   
  - 🔭 I’m currently working on Instagram Clone Project
 
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning Next.js / TypeScript  
   
 
 - 💬 Ask me about anything related to MERN stack
@@ -52,8 +51,9 @@
 
 <br/>  
 
+
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=faceyage&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=faceyage&show_icons=true&theme=tokyonight&locale=en" align="center" /></div>  
 
 <br/>  
   

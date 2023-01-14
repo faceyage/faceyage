@@ -4,9 +4,12 @@
 
 ### <div align="center">Hi 👋, I'm faceyage. A passionate fullstack developer</div>  
   
- - 🔭 I’m currently working on Instagram Clone Project
+ - 🔭 I’m currently working on Portfolio v2 Project
 
-- 🌱 I’m currently learning Next.js / TypeScript  
+- 🌱 I’m currently learning TypeScript
+
+- ⚡ Fun fact: I'm bad at design and CSS
+
   
 
 - 💬 Ask me about anything related to MERN stack
